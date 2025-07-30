@@ -7,3 +7,7 @@ Code World Lab targets several conferences related to software engineering and t
 - **CHASE** (Cooperative and Human Aspects of Software Engineering)
 - **CHI** (Conference on Human Factors in Computing Systems)
 - **FSE** (Foundation of Software Engineering)
+
+# Time Off
+
+- At Code World Lab, there is a process that involves communicating with Dr. Brown to obtain approval for time off. This process is expected to take approximately one week.
