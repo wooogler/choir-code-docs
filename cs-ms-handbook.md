@@ -7,17 +7,11 @@ An [M.S. coursework-only](https://students.cs.vt.edu/Graduate/Degrees/MSCoursewo
 Students not pursuing a Ph.D. who wish to complete a coursework-only master's (no thesis) should enroll in the [Master of Engineering degree program](https://students.cs.vt.edu/Graduate/Degrees/MEng.html).  
 Compare the two degrees [here](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html).
 
----
-
 ## Contacts
 
-- **Klaudia Escobar Villatoro**  
-  Administrative and Office Specialist, Master of Science and Ph.D. programs, D.C. area
+- **Klaudia Escobar Villatoro** - Administrative and Office Specialist, Master of Science and Ph.D. programs, D.C. area
 
-- **Andrea Sirles**  
-  Graduate Program Coordinator
-
----
+- **Andrea Sirles** - Graduate Program Coordinator
 
 ## Degree Requirements
 
@@ -29,8 +23,6 @@ To earn an M.S. in Computer Science at Virginia Tech, students must fulfill the 
 - **GPA**: Minimum cumulative **GPA of 3.0** in all graduate coursework
 - **Examinations**: Completion of the **Final Thesis Defense**
 - **Timeline**: **Two years**
-
----
 
 ## Coursework Requirements (21 Graded Credits)
 
@@ -52,28 +44,23 @@ To fulfill the 21-credit coursework requirement, students must:
     - Responsible Conduct of Research  
     - Conflict of Interest Training
 
----
-
 ## M.S. Degree Milestones
 
 Students are expected to complete all degree requirements within **2 years**. Timely progress is essential for good standing and funding eligibility.
 
 ### Timeline
 
-| Milestone             | Deadline                           |
-|-----------------------|------------------------------------|
-| Select Advisor        | End of **1st semester**            |
-| Submit Plan of Study  | End of **2nd semester**            |
-| Apply for Degree      | **Year 2**, beginning of final semester |
-| Thesis Defense        | **End of 2nd year**                |
-| Submit ETD            | After successful thesis defense    |
+- **Select Advisor** - End of **1st semester**
+- **Submit Plan of Study** - End of **2nd semester**
+- **Apply for Degree** - **Year 2**, beginning of final semester
+- **Thesis Defense** - **End of 2nd year**
+- **Submit ETD** - After successful thesis defense
 
-> Failure to meet milestones may result in:
-> - Loss of funding
-> - Academic hold
-> - Probation or dismissal
+Failure to meet milestones may result in:
 
----
+- Loss of funding
+- Academic hold
+- Probation or dismissal
 
 ## M.S. Advisory Committee
 
@@ -102,11 +89,9 @@ Students are expected to complete all degree requirements within **2 years**. Ti
 - All members must be **pre-approved**
 - **Substitutes** for exams must also be approved
 
----
-
 ## Examination Timeline
 
-> You must be registered during the term you take each exam.
+You must be registered during the term you take each exam.
 
 ### Final Defense
 
@@ -116,43 +101,39 @@ Students are expected to complete all degree requirements within **2 years**. Ti
   Submit via [Graduate School's Signature Approval System](https://graduateschool.vt.edu/academics/what-you-need/etd.html)  
   Requires full committee approval
 
----
-
 ## Typical Schedule (2-Year Completion)
 
 Assumes Fall start; actual course sequence may vary.
 
 ### Year 1
 
-**Fall**
+#### Fall
 - CS 5xxx (3 cr) – First breadth area  
 - CS 5xxx (3 cr) – Second breadth area  
 - CS 5944 Graduate Seminar (1 cr)  
 - CS 5994 Research Thesis (credits as needed)
 
-**Spring**
+#### Spring
 - CS 5xxx (3 cr) – Third breadth area  
 - CS 5xxx or 6xxx (3 cr) – Fourth breadth area  
 - CS 5944 Graduate Seminar (1 cr)  
 - CS 5994 Research Thesis (credits as needed)
 
-> 📝 Submit Student Activity Report in late Spring  
-> 🧪 All students evaluated on Green Thursday  
-> 🌐 Internships may require a filed Plan of Study (especially for international students)
+📝 Submit Student Activity Report in late Spring  
+🧪 All students evaluated on Green Thursday  
+🌐 Internships may require a filed Plan of Study (especially for international students)
 
 ### Year 2
 
-**Fall**
+#### Fall
 - CS xxxx (3 cr)  
 - CS 5xxx or 6xxx (3 cr)  
 - CS 5994 Research Thesis (credits as needed)
 
-> If not yet taken, this is a good time to complete the CS 6xxx requirement.
+If not yet taken, this is a good time to complete the CS 6xxx requirement.
 
-**Spring**
+#### Spring
 - CS 5xxx or 6xxx (3 cr)  
 - CS 5994 Research Thesis (credits as needed)
-
----
 
 **Source**: [students.cs.vt.edu/Graduate/Degrees/MSThesis.html](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html)

@@ -2,13 +2,9 @@
 
 ## Contacts
 
-- **Sharon Kinder-Potter**  
-  Graduate Program Coordinator
+- **Sharon Kinder-Potter** - Graduate Program Coordinator
 
-- **Klaudia Escobar Villatoro**  
-  Administrative and Office Specialist, Master of Science and Ph.D. programs, D.C. area
-
----
+- **Klaudia Escobar Villatoro** - Administrative and Office Specialist, Master of Science and Ph.D. programs, D.C. area
 
 ## Degree Requirements
 
@@ -20,8 +16,6 @@ To earn a Ph.D. in Computer Science at Virginia Tech, students must fulfill the 
 - **GPA**: Minimum cumulative GPA of **3.0** in all graduate coursework
 - **Examinations**: Completion of the **Qualifying Exam**, **Preliminary Exam**, and **Final Defense**
 - **Timeline**: **4–5 years**, depending on prior degrees
-
----
 
 ## Coursework Requirements (27 Graded Credits)
 
@@ -37,8 +31,6 @@ To fulfill the 27-credit coursework requirement, students must:
 
 - **Additional Requirements**:  
   **CS 5944: Graduate Seminar** (2 semesters, 1 credit each)
-
----
 
 ## Ph.D. Degree Milestones
 
@@ -62,20 +54,14 @@ Failure to meet key milestones may result in:
 Students are responsible for knowing and meeting all deadlines.  
 Meet regularly with your **advisor** and **Graduate Program Coordinator**.
 
----
-
 ## Key Milestones and Deadlines
 
-| Milestone              | Deadline                                          |
-|------------------------|---------------------------------------------------|
-| Select Advisor         | End of **1st year**                               |
-| Submit Plan of Study   | End of **3rd semester**                           |
-| Pass Qualifying Exam   | End of **2nd year**                               |
-| Pass Preliminary Exam  | Year 4, **at least 6 months before final defense**|
-| Apply for Degree       | Year 5, **beginning of final semester**          |
-| Submit ETD             | After **successful final defense**               |
-
----
+- **Select Advisor** - End of **1st year**
+- **Submit Plan of Study** - End of **3rd semester**
+- **Pass Qualifying Exam** - End of **2nd year**
+- **Pass Preliminary Exam** - Year 4, **at least 6 months before final defense**
+- **Apply for Degree** - Year 5, **beginning of final semester**
+- **Submit ETD** - After **successful final defense**
 
 ## Earning an M.S. Along the Way
 
@@ -86,8 +72,6 @@ Ph.D. students have the option to earn a **Master of Science (M.S.)** along the 
 - Available only to **CS Ph.D. students**
 - Requires an **approved Ph.D. Plan of Study**
 - Completion of the **Ph.D. Qualifier Process** is required
-
----
 
 ## Ph.D. Advisory Committee
 
@@ -117,12 +101,9 @@ The **Advisory Committee** plays a key role in research and degree progress.
 
 - Must also be **pre-approved** by the Graduate School
 
----
-
 ## Examination Timeline
 
-> You must be registered during the term you take each exam.  
-> Schedule via the [Graduate School's Signature Approval System](https://graduateschool.vt.edu/academics/what-you-need/etd.html).
+You must be registered during the term you take each exam. Schedule via the [Graduate School's Signature Approval System](https://graduateschool.vt.edu/academics/what-you-need/etd.html).
 
 ### Qualifying Exam
 
@@ -141,14 +122,10 @@ The **Advisory Committee** plays a key role in research and degree progress.
 - **Timing**: **Year 5**, final semester
 - **Scheduling**: Submit at least **2 weeks in advance**, with full committee approval
 
----
-
 ## Additional Resources
 
 - [Graduate School's Prelim and Final Exam Scheduling](https://graduateschool.vt.edu/academics/what-you-need/etd.html)
 - [Graduate School's "What You Need to Graduate"](https://graduateschool.vt.edu/academics/what-you-need.html)
 - [CS Faculty and Administration Directory](https://cs.vt.edu/People/Faculty.html)
-
----
 
 **Source**: [students.cs.vt.edu/Graduate/Degrees/Doctorate.html](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html)
