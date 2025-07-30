@@ -31,18 +31,19 @@ To fulfill the 21-credit coursework requirement, students must:
 - **Breadth Requirement**: Complete **one course in at least four distinct areas**, including **Area 0 (Ethics)**  
   [View approved breadth area courses »](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html)
 
-- **CS Courses**: Take at least **7 CS courses** at the 5000 or 6000 level
-  - Minimum **1 course at the 6000 level**
-  - Maximum **6 credits** of 4000-level CS courses (if approved)
+#### CS Courses
+- Take at least **7 CS courses** at the 5000 or 6000 level
+- Minimum **1 course at the 6000 level**
+- Maximum **6 credits** of 4000-level CS courses (if approved)
 
 - **Cognate Course** (optional):  
   One **approved non-CS course** relevant to your research
 
-- **Additional Requirements**:
-  - **CS 5944 Graduate Seminar** (2 semesters, 1 credit each)
-  - **CITI Training**: Complete two courses via the [CITI training course system](https://about.citiprogram.org/en/home/):
-    - Responsible Conduct of Research  
-    - Conflict of Interest Training
+#### Additional Requirements
+- **CS 5944 Graduate Seminar** (2 semesters, 1 credit each)
+- **CITI Training**: Complete two courses via the [CITI training course system](https://about.citiprogram.org/en/home/):
+- Responsible Conduct of Research  
+- Conflict of Interest Training
 
 ## M.S. Degree Milestones
 
@@ -54,7 +55,8 @@ Students are expected to complete all degree requirements within **2 years**. Ti
 - **Submit Plan of Study** - End of **2nd semester**
 - **Apply for Degree** - **Year 2**, beginning of final semester
 - **Thesis Defense** - **End of 2nd year**
-- **Submit ETD** - After successful thesis defense
+- **Submit ETD** - After successful thesis defense  
+  [Virginia Tech ETD LaTeX Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
 
 Failure to meet milestones may result in:
 
@@ -66,17 +68,17 @@ Failure to meet milestones may result in:
 
 ### Composition
 
-- **Minimum of 3 members**
-  - **2 of 3** must hold a Ph.D. or equivalent terminal degree
-  - Non-Ph.D. members must have recognized expertise
+#### Minimum of 3 members
+- **2 of 3** must hold a Ph.D. or equivalent terminal degree
+- Non-Ph.D. members must have recognized expertise
 
 ### Chair/Advisor
 
-- Must be:
-  - Tenured/Tenure Track
-  - Collegiate Faculty
-  - Professor of Practice (approved)
-  - Emeritus faculty in the **Department of Computer Science**
+#### Requirements
+- Tenured/Tenure Track
+- Collegiate Faculty
+- Professor of Practice (approved)
+- Emeritus faculty in the **Department of Computer Science**
 
 ### External Member (Optional)
 

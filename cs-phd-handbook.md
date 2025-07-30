@@ -61,7 +61,8 @@ Meet regularly with your **advisor** and **Graduate Program Coordinator**.
 - **Pass Qualifying Exam** - End of **2nd year**
 - **Pass Preliminary Exam** - Year 4, **at least 6 months before final defense**
 - **Apply for Degree** - Year 5, **beginning of final semester**
-- **Submit ETD** - After **successful final defense**
+- **Submit ETD** - After **successful final defense**  
+  [Virginia Tech ETD LaTeX Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
 
 ## Earning an M.S. Along the Way
 
