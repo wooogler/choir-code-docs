@@ -4,6 +4,7 @@
 
 - Student submits exam request **at least two weeks** before intended exam date. Must have approved **Plan of Study (POS)**.
 - Exam request system populates **committee members** from POS.
+- When seeking an external committee member for a Ph.D. or M.S. advisory committee, it is typical for an advisor to suggest a few names of individuals who have expertise in the dissertation topic. The student is more than welcome to suggest names too.
 - Automated email notice is sent to chair and committee members requesting approval. No action notice sent to GPD and GC.
 - All committee members **approve** exam request.
 
