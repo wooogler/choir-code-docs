@@ -2,7 +2,7 @@
  <img src="https://code-world-no-blanket.github.io/files/img/codeworld-Logo-Color.png" width="300" title="Code World No Blanket" alt="Code World No Blanket logo?"/>
 </p>
 
-This is the lab handbook for the Code World, No Blanket research lab. We are a research group in the Department of Computer Science at Virginia Tech. Our research explores empirical, interdisciplinary, and automated approaches to improve the behavior, productivity, decision-making of software engineers.
+We are a research group in the Department of Computer Science at Virginia Tech. Our research explores empirical, interdisciplinary, and automated approaches to improve the behavior, productivity, decision-making of software engineers. This repository serves as the lab handbook for the Code World, No Blanket research lab. 
 
 Social Links:
 * Website: https://code-world-no-blanket.github.io/
