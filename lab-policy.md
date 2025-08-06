@@ -11,4 +11,4 @@
 
 ## Time Off
 
-- Please communicate with Dr. Brown to obtain approval for time off, non-related travel, and vacations at least one week before the expected travel date.
+- Taking personal time off is critical for maintaining well-being, mental health, and work-life balance. Please request approval from Dr. Brown **at least one week before the expected departure date** for time off, personal and non-research-related travel, and vacations.
