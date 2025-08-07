@@ -1,7 +1,7 @@
 # Lab Policies
 
 ## Communication
-- [Slack](https://code-world-workspace.slack.com) will be the primary mode of communication for the research group. Each project has an individual channel to discuss research updates, and general updates will appear in the #general, #reading-group, or #random channels. There are also public channels available for various research areas in the group. Dr. Brown frequently checks Slack messages, and is also available via email. He rarely answers his office phone.
+- [Slack](https://code-world-workspace.slack.com) will be the primary mode of communication for the research group. Each project has an individual channel to discuss research updates, and general updates will appear in the #general, #reading-group, or #random channels. There are also public channels available for various research areas in the group. Dr. Brown frequently checks Slack messages, and is also available via email (dcbrown@vt.edu). He rarely answers his office phone (540-231-9176).
 
 ## Meetings
 - Students are expected to attend weekly meetings to provide updates on research progress, ask questions, or discuss blockers. If you will miss a meeting, please contact Dr. Brown ahead of time to reschedule or provide an update via Slack. We also have a weekly group meeting, where attendance is strongly encouraged.
@@ -11,7 +11,9 @@
 - All studies involving human subject participants (i.e., surveys, interviews, user studies, etc.) **must** obtain [IRB approval](https://secure.research.vt.edu/irb/) before commencing. If you are not sure whether your study applies, please submit a request for [human subjects research determination](https://secure.research.vt.edu/irb/?mod=protocol&action=determination_request). Dr. Brown will complete the IRB for newer research students, but more experienced PhD students will be expected to complete the IRB protocol for their study themselves.
 
 ## Conference Travel
-- Please submit the [Travel Approval Form](https://admin.cs.vt.edu/wp-content/uploads/2021/10/CS-Travel-Approval-Form-1.pdf) to Teresa Hall (teresa@vt.edu) at least two weeks before the departure date. After returning from the conference, you will receive another form from Teresa to complete the reimbursement.
+- Please submit the [Travel Approval Form](https://admin.cs.vt.edu/wp-content/uploads/2021/10/CS-Travel-Approval-Form-1.pdf) to Teresa Hall (teresa@vt.edu) at least two weeks before the departure date. After returning from the conference, pleace complete the [Travel Reimbursment Form](https://admin.cs.vt.edu/wp-content/uploads/2021/10/Reimbursement-Form-1.pdf) form as soon as possible (within 60 days). The reimbursement process may take several weeks to be completed.
+- Per department policies, students can be reimbursed for: registration fees, airfare (baggage fees require additional justification), lodging, transportation (i.e., gas, taxi, rental vehicle, etc.) and parking, and meals (per diem rates for meals not provided by the hotel, conference or airline).
+- 
 - Due to limited budget, only first authors may travel to conferences unless otherwise specified. Please apply for travel funding from the following sources:- [CS Grad Council](https://csgrad.cs.vt.edu/travel_funding/)
 - [GPSS](https://gpss.vt.edu/programs/tfp.html)
 - [GRDP](https://gpss.vt.edu/programs/grdp.html)
