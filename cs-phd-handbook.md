@@ -20,7 +20,7 @@ To earn a Ph.D. in Computer Science at Virginia Tech, students must fulfill the 
 
 To fulfill the 27-credit coursework requirement, students must:
 
-- **Fulfill the Breadth Requirement**: Complete **one course in at least four distinct areas**, including **Area 0 (Ethics)**[View approved breadth area courses »](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html)
+- **Fulfill the Breadth Requirement**: Complete **one course in at least four distinct areas**, including **Area 0 (Ethics)** [View approved breadth area courses »](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html)
 - **CS Courses**: Take at least **6 CS courses** at the 5000 or 6000 level, including at least **2 at the 6000 level**.Maximum of **6 credits of 4000-level CS courses** (only if approved for graduate credit)
 - **Cognate Course**: Take **1 approved non-CS course** relevant to your research
 - **Additional Requirements**:**CS 5944: Graduate Seminar** (2 semesters, 1 credit each)
@@ -53,7 +53,7 @@ Students are responsible for knowing and meeting all deadlines.Meet regularly wi
 - **Pass Qualifying Exam** - End of **2nd year**
 - **Pass Preliminary Exam** - Year 4, **at least 6 months before final defense**
 - **Apply for Degree** - Year 5, **beginning of final semester**
-- **Submit ETD** - After **successful final defense**[Virginia Tech ETD LaTeX Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
+- **Submit ETD** - After **successful final defense** [Virginia Tech ETD LaTeX Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
 
 ## Earning an M.S. Along the Way
 
@@ -90,7 +90,7 @@ The following faculty have aligning research interests and frequenty join commit
 ### External Member
 
 - At least **one member must be from outside CS@VT**
-- The external member **must be pre-approved**[Current approved committee members list »](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html)
+- The external member **must be pre-approved** [Current approved committee members list »](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html)
 - Dr. Brown will propose several external committee members based on your research area. Students may also suggest external members with expertise in their area.
 
 ### Graduate School Approval
