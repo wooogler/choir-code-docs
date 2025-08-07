@@ -26,7 +26,7 @@ To earn an M.S. in Computer Science at Virginia Tech, students must fulfill the 
 
 To fulfill the 21-credit coursework requirement, students must:
 
-- **Breadth Requirement**: Complete **one course in at least four distinct areas**, including **Area 0 (Ethics)**[View approved breadth area courses »](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html)
+- **Breadth Requirement**: Complete **one course in at least four distinct areas**, including **Area 0 (Ethics)** [View approved breadth area courses »](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html)
 
 #### CS Courses
 
@@ -52,7 +52,7 @@ Students are expected to complete all degree requirements within **2 years**. Ti
 - **Submit Plan of Study** - End of **2nd semester**
 - **Apply for Degree** - **Year 2**, beginning of final semester
 - **Thesis Defense** - **End of 2nd year**
-- **Submit ETD** - After successful thesis defense[Virginia Tech ETD LaTeX Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
+- **Submit ETD** - After successful thesis defense [Virginia Tech ETD LaTeX Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
 
 Failure to meet milestones may result in:
 
@@ -71,6 +71,8 @@ Failure to meet milestones may result in:
 
 ### Chair/Advisor
 
+- If you are reading this, Dr. Brown is probably your committee chair.
+
 #### Requirements
 
 - Tenured/Tenure Track
@@ -78,10 +80,17 @@ Failure to meet milestones may result in:
 - Professor of Practice (approved)
 - Emeritus faculty in the **Department of Computer Science**
 
+### Members
+
+The following faculty have aligning research interests and frequenty join committees for members of this research group---however you are not limited to this list:
+- SE: Gulzar, Meng, Tilevich, Seyam, Edmison
+- HCI: Lee, Chen, Rho
+- Education: Chen, Seyam, Edmison, Omebo, Ellis, Shaffer, Edwards
+
 ### External Member (Optional)
 
 - May include one from **outside CS@VT**
-- Must be **approved in advance**[List of Approved Committee Members](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html)
+- Must be **approved in advance** [List of Approved Committee Members](https://docs.google.com/spreadsheets/d/1Vw7cWTG1Q1AQxXUTLhnXkROVV0bzzLK-uedaEyfc9H0/edit?gid=0#gid=0)
 
 ### Graduate School Approval
 
@@ -96,7 +105,7 @@ You must be registered during the term you take each exam.
 
 - **Purpose**: Defend completed thesis
 - **Timing**: **Year 2**, final semester
-- **Scheduling**: At least **2 weeks in advance**Submit via [Graduate School's Signature Approval System](https://graduateschool.vt.edu/academics/what-you-need/etd.html)Requires full committee approval
+- **Scheduling**: At least **2 weeks in advance**. Submit via [Graduate School's Signature Approval System](https://graduateschool.vt.edu/academics/what-you-need/etd.html) (Requires full committee approval).
 
 ## Typical Schedule (2-Year Completion)
 
