@@ -74,15 +74,24 @@ The **Advisory Committee** plays a key role in research and degree progress.
 - At least **5 members** by the time of the **Preliminary Exam**
 - An initial Plan of Study can be submitted with **4 members**
 - At least **3 members** must hold **tenure-track or emeritus CS@VT positions**
+- Students are responsible for contacting individuals (internal and external) to join their committee.
 
 ### Chair/Advisor
 
-- Must be a **tenure-track**, **tenured**, **courtesy**, or **emeritus** CS faculty member
+- Must be a **tenure-track**, **tenured**, **courtesy**, or **emeritus** CS faculty member. If you are reading this, your committee chair is probably Dr. Brown.
+
+### Internal Members
+
+The following faculty have aligning research interests and frequenty join committees for members of this research group---however you are not limited to this list:
+- SE: Gulzar, Meng, Tilevich, Seyam, Edmison
+- HCI: Lee, Chen, Rho
+- Education: Chen, Seyam, Edmison, Omebo, Ellis, Shaffer, Edwards
 
 ### External Member
 
 - At least **one member must be from outside CS@VT**
 - The external member **must be pre-approved**[Current approved committee members list »](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html)
+- Dr. Brown will propose several external committee members based on your research area. Students may also suggest external members with expertise in their area.
 
 ### Graduate School Approval
 
