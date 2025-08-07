@@ -33,7 +33,7 @@ To fulfill the 21-credit coursework requirement, students must:
 - Take at least **7 CS courses** at the 5000 or 6000 level
 - Minimum **1 course at the 6000 level**
 - Maximum **6 credits** of 4000-level CS courses (if approved)
-- **Cognate Course** (optional):One **approved non-CS course** relevant to your research
+- **Cognate Course** (optional): One **approved non-CS course** relevant to your research
 
 #### Additional Requirements
 
@@ -51,8 +51,10 @@ Students are expected to complete all degree requirements within **2 years**. Ti
 - **Select Advisor** - End of **1st semester**
 - **Submit Plan of Study** - End of **2nd semester**
 - **Apply for Degree** - **Year 2**, beginning of final semester
-- **Thesis Defense** - **End of 2nd year** (Examples of prior students' MS theses are available [here](https://drive.google.com/drive/folders/1L7SaswOmZe7M9iKrIyoUbS3skCB32yjf?usp=drive_link))
+- **Thesis Defense** - **End of 2nd year** 
 - **Submit ETD** - After successful thesis defense [Virginia Tech ETD LaTeX Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
+
+Examples of prior students' MS theses are available [here](https://drive.google.com/drive/folders/1L7SaswOmZe7M9iKrIyoUbS3skCB32yjf?usp=drive_link).
 
 Failure to meet milestones may result in:
 
