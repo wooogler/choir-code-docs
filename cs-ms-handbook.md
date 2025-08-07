@@ -2,9 +2,9 @@
 
 ## Program Guide for Current Students
 
-An [M.S. coursework-only](https://students.cs.vt.edu/Graduate/Degrees/MSCoursework.html) option ("a master's along the way") is available to Ph.D. students who seek to earn a Master of Science degree on the way to their Ph.D.
+An [M.S. coursework-only](https://students.cs.vt.edu/Graduate/MSCoursework.html) option ("a master's along the way") is available to Ph.D. students who seek to earn a Master of Science degree on the way to their Ph.D.
 
-Students not pursuing a Ph.D. who wish to complete a coursework-only master's (no thesis) should enroll in the [Master of Engineering degree program](https://students.cs.vt.edu/Graduate/Degrees/MEng.html). Compare the two degrees [here](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html).
+Students not pursuing a Ph.D. who wish to complete a coursework-only master's (no thesis) should enroll in the [Master of Engineering degree program](https://website.cs.vt.edu/academic/graduate/future-grads/MENG.html). Compare the two degrees [here](https://website.cs.vt.edu/academic/graduate/future-grads.html).
 
 ## Contacts
 
@@ -51,7 +51,7 @@ Students are expected to complete all degree requirements within **2 years**. Ti
 - **Select Advisor** - End of **1st semester**
 - **Submit Plan of Study** - End of **2nd semester**
 - **Apply for Degree** - **Year 2**, beginning of final semester
-- **Thesis Defense** - **End of 2nd year**
+- **Thesis Defense** - **End of 2nd year** (Examples of prior students' MS theses are available [here](https://drive.google.com/drive/folders/1L7SaswOmZe7M9iKrIyoUbS3skCB32yjf?usp=drive_link))
 - **Submit ETD** - After successful thesis defense [Virginia Tech ETD LaTeX Template](https://www.overleaf.com/latex/templates/virginia-tech-etd-template/cpqhbscstfrx#.WusPwtMvxBw)
 
 Failure to meet milestones may result in:
