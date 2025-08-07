@@ -90,7 +90,7 @@ The following faculty have aligning research interests and frequenty join commit
 ### External Member
 
 - At least **one member must be from outside CS@VT**
-- The external member **must be pre-approved** [Current approved committee members list »](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html)
+- The external member **must be pre-approved** [Current approved committee members list »](https://docs.google.com/spreadsheets/d/1Vw7cWTG1Q1AQxXUTLhnXkROVV0bzzLK-uedaEyfc9H0/edit?gid=0#gid=0)
 - Dr. Brown will propose several external committee members based on your research area. Students may also suggest external members with expertise in their area.
 
 ### Graduate School Approval
@@ -124,8 +124,8 @@ You must be registered during the term you take each exam. Schedule via the [Gra
 
 ## Additional Resources
 
-- [Graduate School's Prelim and Final Exam Scheduling](https://graduateschool.vt.edu/academics/what-you-need/etd.html)
-- [Graduate School's "What You Need to Graduate"](https://graduateschool.vt.edu/academics/what-you-need.html)
-- [CS Faculty and Administration Directory](https://cs.vt.edu/People/Faculty.html)
+- [Graduate School's Prelim and Final Exam Scheduling](https://ess.graduateschool.vt.edu/pages/login.php)
+- [Graduate School's "What You Need to Graduate"](https://graduateschool.vt.edu/academics/what-you-need-to-graduate.html)
+- [CS Faculty and Administration Directory](https://website.cs.vt.edu/people/faculty.html)
 
 **Source**: [students.cs.vt.edu/Graduate/Degrees/Doctorate.html](https://students.cs.vt.edu/Graduate/Degrees/Doctorate.html)
