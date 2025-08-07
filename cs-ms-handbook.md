@@ -107,7 +107,7 @@ You must be registered during the term you take each exam.
 
 - **Purpose**: Defend completed thesis
 - **Timing**: **Year 2**, final semester
-- **Scheduling**: At least **2 weeks in advance**. Submit via [Graduate School's Signature Approval System](https://graduateschool.vt.edu/academics/what-you-need/etd.html) (Requires full committee approval).
+- **Scheduling**: At least **2 weeks in advance**. Submit via [Graduate School's Signature Approval System](https://ess.graduateschool.vt.edu/pages/login.php) (Requires full committee approval, please contact them before scheduling in the ESS system).
 
 ## Typical Schedule (2-Year Completion)
 
