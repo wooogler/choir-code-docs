@@ -4,7 +4,7 @@
 
 An [M.S. coursework-only](https://students.cs.vt.edu/Graduate/Degrees/MSCoursework.html) option ("a master's along the way") is available to Ph.D. students who seek to earn a Master of Science degree on the way to their Ph.D.
 
-Students not pursuing a Ph.D. who wish to complete a coursework-only master's (no thesis) should enroll in the [Master of Engineering degree program](https://students.cs.vt.edu/Graduate/Degrees/MEng.html).Compare the two degrees [here](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html).
+Students not pursuing a Ph.D. who wish to complete a coursework-only master's (no thesis) should enroll in the [Master of Engineering degree program](https://students.cs.vt.edu/Graduate/Degrees/MEng.html). Compare the two degrees [here](https://students.cs.vt.edu/Graduate/Degrees/MSThesis.html).
 
 ## Contacts
 
