@@ -1,7 +1,9 @@
 # Lab Policies
 
 ## Communication
-- [Slack](https://code-world-workspace.slack.com) will be the primary mode of communication for the research group. Each project has an individual channel to discuss research updates, and general updates will appear in the #general, #reading-group, or #random channels. There are also public channels available for various research areas in the group. Dr. Brown frequently checks Slack messages, and is also available via email (dcbrown@vt.edu). He rarely answers his office phone (540-231-9176).
+- [Slack](https://code-world-workspace.slack.com) will be the primary mode of communication for the research group. Each project has an individual channel to discuss research updates, and general updates will appear in the #general, #reading-group, or #random channels. There are also public channels available for various research areas in the group.
+- Dr. Brown frequently checks Slack messages. He is also available via email (dcbrown@vt.edu) and zoom (virginiatech.zoom.us/my/dcbrown). He rarely answers his office phone (540-231-9176).
+- If Dr. Brown is in his office and not currently in a meeting, please feel free to stop by. His office is 4102 Gilbert.
 
 ## Meetings
 
