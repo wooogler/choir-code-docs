@@ -90,6 +90,7 @@ The following faculty have aligning research interests and frequenty join commit
 ### External Member
 
 - At least **one member must be from outside CS@VT**
+- The external committee member does not need to be in a Computer Science department, but must conduct relevant work and be able to provide insights on your research.
 - The external member **must be pre-approved** [Current approved committee members list »](https://docs.google.com/spreadsheets/d/1Vw7cWTG1Q1AQxXUTLhnXkROVV0bzzLK-uedaEyfc9H0/edit?gid=0#gid=0)
 - Dr. Brown will propose several external committee members based on your research area. Students may also suggest external members with expertise in their area.
 
