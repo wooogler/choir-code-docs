@@ -1,6 +1,8 @@
 # Lab Policies
 
-The research lab is located in Gilbert 4102.
+## Space
+
+The research lab is located in Gilbert 4102. Unfortunately there is currently no seating available in the lab, but a request is pending to add more space and seats will become available as students graduate.
 
 ## Communication
 - [Slack](https://code-world-workspace.slack.com) will be the primary mode of communication for the research group. Each project has an individual channel to discuss research updates, and general updates will appear in the #general, #reading-group, or #random channels. There are also public channels available for various research areas in the group.
