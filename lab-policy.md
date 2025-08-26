@@ -1,5 +1,7 @@
 # Lab Policies
 
+The research lab is located in Gilbert 4102.
+
 ## Communication
 - [Slack](https://code-world-workspace.slack.com) will be the primary mode of communication for the research group. Each project has an individual channel to discuss research updates, and general updates will appear in the #general, #reading-group, or #random channels. There are also public channels available for various research areas in the group.
 - Dr. Brown frequently checks Slack messages. He is also available via email (dcbrown@vt.edu) and zoom (virginiatech.zoom.us/my/dcbrown). He rarely answers his office phone (540-231-9176).
@@ -41,3 +43,6 @@ Taking personal time off is critical for maintaining well-being, mental health, 
 
 ## LLMs
 - Please use open-source models for research-related tasks whenever possible. We currently have API access to GPT, Claude, and Gemini. To obtain access, please contact Dr. Brown with a summary of how the model will be used. Please only use LLM APIs for research purposes and limit tokens.
+
+## Office Hours
+- Holding office hours in the lab space is discouraged to prevent disruptions to other students who may be working in the lab.
